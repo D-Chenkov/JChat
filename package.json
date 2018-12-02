@@ -1,0 +1,15 @@
+{
+  "name": "jchat",
+  "version": "1.0.0",
+  "description": "Simple Chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chenkov",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
